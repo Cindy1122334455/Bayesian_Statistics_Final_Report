@@ -6,9 +6,6 @@ Labor force participation rate, defined as the inverse of the unemployment rate,
 ## Objective & Data Source:
 To gain more insights about U.S labor force participation rate, our group looks for the U.S. Current Population Survey (https://cps.ipums.org/cps/) from 1976 to 2015 providing individual-level data on geographic and demographic characteristics, including sex, race, age, skill, annual income, state, year, and labor market outcomes.  
 
-data source: 
-As we set each variable affecting the U.S. labor force participation rate into different groups, multinomial logistic regression, which is a classification method that generalizes logistic regression to multiclass problems, seems to be a good fit to our dataset with categorically distributed dependent variables to predict whether a person participates in a job or not.  
-
 ## Tools:
 This project will use R version 3.5.0 and Stan version 2.17.3. It also requires the following R packages: 
 library 
@@ -20,8 +17,7 @@ Adopting Multilevel Logistic Regression Model to predict whether a U.S. citizen 
 To analyze more about the effect of interactions among variables, we adopt Varying Intercept and Slope Model.
 
 ## Limitation & Future Improvement:
-our grouping of regions into 4 parts is too board, which captures less information. 
-There is little correlation between state and income variable.  
+Our grouping of regions into 4 parts is too board, which captures less information. And there is little correlation between state and income variable.  
 
 Therefore, considering more about the grouping of variables and the relationships among them might better improve our model to predict the U.S. labor force participation rate. 
  
