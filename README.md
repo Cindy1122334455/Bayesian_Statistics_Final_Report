@@ -1,4 +1,4 @@
-# Multilevel Bayesian Model for U.S. Labor Force Participation Rate
+## Multilevel Bayesian Model for U.S. Labor Force Participation Rate
 
 ### Research Background: 
 Labor force participation rate, defined as the inverse of the unemployment rate, is the percentage of working people in a group of people who are currently available for work. Rising labor force participation rate is seen as a sign of a strong economy, with fast growth and great spending. The determination of the health of the economy also helps to set monetary policy. 
