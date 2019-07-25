@@ -19,4 +19,3 @@ Therefore, considering more about the grouping of variables and the relationship
  
 ### Tools:
 This project will use R version 3.5.0 and Stan version 2.17.3. 
-![Capture2](https://user-images.githubusercontent.com/34041602/61911487-dd537c00-aef4-11e9-9ed1-7e395a0dbea1.PNG)
